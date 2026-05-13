@@ -20,3 +20,7 @@ let carro = {
 };
 
 console.log(`O carro é um ${carro.modelo}, do ano ${carro.ano}, e ele ${carro.automatico ? "é automático" : "não é automático"}.`);
+
+let notas = [7.5, 8.0, 9.2];
+let mediaa = (notas[0] + notas[1] + notas[2] ) /3;
+console.log("A media das notas foi:", mediaa.toFixed(2));
