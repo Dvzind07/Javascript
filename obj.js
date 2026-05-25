@@ -1,3 +1,4 @@
+// Aprendendo a usar objetos e fazer verificacoes
 let eu = {
     nome: "Davi",
     idade: 16,
@@ -6,6 +7,7 @@ let eu = {
 
 console.log(eu.nome);
 
+// Usando objetos para fazer exemplos de coisas que funcionando no dia a dia
 let pro = {
     prod: "Livros",
     prec: 30,
@@ -14,6 +16,7 @@ let pro = {
 console.log("Produto:",pro.prod);
 console.log("Preco R$:",pro.prec);
 
+// Aprendendo a manipular objetos
 let li = {
     liv: "Contos de um mentiroso",
     pag: 107,
@@ -23,6 +26,7 @@ console.log(li.liv,"tem",li.pag,"paginas")
 li.genero = "Baseado em fatos reais ou nao"
 console.log(li)
 
+// Exemplo simples
 let ca = {
     carr: "Pagani Zonda R",
     a: 2009,

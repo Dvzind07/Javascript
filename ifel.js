@@ -1,13 +1,16 @@
+// Uso de condicionais e pequenos sistemas
 let idade = 17
 let temcarteira = false
 let dirigi = idade >= 18 || temcarteira;
 console.log("Pode dirigir ?", dirigi)
 
+// Uso de condicionais e pequenos sistemas
 let maioridade = 18
 let temingresso = false
 let acessolivre = maioridade && temingresso
 console.log("Acesso liberado ?", acessolivre)
 
+// Uso do Else e if para construcao de pequenos sistemas
 let nota = 8
 if (nota>= 7){
     console.log("Aprovado");
