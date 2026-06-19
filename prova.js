@@ -60,3 +60,4 @@ console.log("O carro modelo",carro.modelo,"da marca",carro.marca,"do ano",carro.
 
 let frutas = ["maçã","banana","laranja"];
 console.log("A primeira fruta da lista é:", frutas[0]);
+
